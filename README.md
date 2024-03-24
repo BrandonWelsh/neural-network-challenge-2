@@ -31,11 +31,15 @@ Run each jupyter notebook cell. That's pretty much it.
 ## Resources Utilized
 This section is dedicated to keep track of what I used to help complete this project:
 
+80% class notes
+
+20% Generative AI (used to help debug errors and make suggestions)
 
 ## Bugs
 
-
+N/A
 
 ## Update Log
 3/23/2024: Created github repo, read through what I needed to do in the challenge.
 
+3/24/2024: Finished project in one sitting.
